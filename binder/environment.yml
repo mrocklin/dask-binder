@@ -16,6 +16,7 @@ dependencies:
   - nbserverproxy
   - nomkl
   - h5py
+  - rpy2
   - py-xgboost
   - pip:
     - graphviz
